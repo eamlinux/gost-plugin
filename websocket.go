@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/ginuerzh/gost"
-	"gopkg.in/gorilla/websocket.v1"
+	"github.com/gorilla/websocket"
 	"github.com/xtaci/smux"
 )
 
